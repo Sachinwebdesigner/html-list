@@ -1,0 +1,58 @@
+
+
+
+p{
+    background-color: aquamarine;
+}
+
+.para2{
+    background-color: blue
+      ;
+}
+
+.para4{
+    text-align: center;
+}
+
+.para2{
+    color: white;
+}
+
+
+
+#three{
+    background-color: black;
+}
+
+
+table,th,td{
+ border: 3px solid black;
+ border-collapse: collapse;
+ padding: 10px;
+}
+.para5{
+    background-color: bisque;
+}
+
+
+
+.upper-roman{
+    list-style-type:upper-roman;
+}
+
+.upper-alpha{
+    list-style-type: upper-alpha;
+}
+
+.lower-roman{
+    list-style-type: lower-roman;
+}
+
+.lower-alpha{
+    list-style-type:lower-alpha;
+}
+
+
+table{
+    border: 1px solid green;
+}
